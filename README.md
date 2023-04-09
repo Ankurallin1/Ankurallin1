@@ -12,7 +12,7 @@
 
 - 💻 I'm also sharping up my **problem-solving skills**
 
-- 🎐 I'm also interested in learning AI/ML and Devops technologies.
+- 🎐 I'm also interested in Devops technologies.
 
 - ⚡ Fun fact **If I got super-power then it would be of Iron Man**
 
